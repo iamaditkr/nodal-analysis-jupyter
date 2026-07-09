@@ -17,14 +17,6 @@ Built using **Python** and **Google Colab**, this notebook provides a simple vis
 
 ---
 
-## 📈 Sample Plot
-
-The plot below shows how IPR and TPR curves intersect to define the well's stable production point.
-
-*(You can add a screenshot or Colab plot here later)*
-
----
-
 ## 🚀 How to Use
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/)
@@ -67,7 +59,7 @@ This project helped me understand:
 
 ## 🧑‍💻 Author
 
-**Anjali Dubey**  
+**Aditya Kumar**  
 Petroleum Engineering Undergraduate | IIT (ISM) Dhanbad
 
 ---
